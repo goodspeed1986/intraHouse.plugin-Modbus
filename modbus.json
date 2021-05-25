@@ -248,7 +248,8 @@
         { "id": "DO", "name": "DO - Discrete Output" },
         { "id": "AI", "name": "AI - Analog Input" },
         { "id": "AO", "name": "AO - Analog  Output" },
-        { "id": "EA", "name": "EA - Enum (switch)" }
+        { "id": "EA", "name": "EA - Enum (switch)" },
+        { "id": "Meter", "name": "Meter - (IN)" }
       ],
       "order": 1
     },
